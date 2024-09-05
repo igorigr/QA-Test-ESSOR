@@ -84,6 +84,13 @@
 - O maior desafio foi o tempo de construção dos 19 casos de testes entre API e GUI
 - Outro desafio foi para encontrar os elementos no frame web, onde não possui     identificadores proprio para serem utilizados na automação, como manda as boas práticas.
 
+### Report da execução dos testes automatizado 
+
+- Para acessar o relatório que foi gerado durante a minha execução acesse o link abaixo:
+
+- [Report da Execução](https://github.com/igorigr/QA-Test-ESSOR-REPORT "Report da Execução")
+
+
 ### Informação das Variáveis de Ambiente
 
 - Informar as credencias como email, senha e chave de Integração nos parametros correspondentes do arquivo env/test.json, antes de executar o projeto.
