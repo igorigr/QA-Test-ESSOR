@@ -1,0 +1,15 @@
+{
+  "urlLogin": "https://app10.ploomes.com/login",
+  "urlApi": "https://api2.ploomes.com",
+  "usuario": {
+      "credenciaisValidas": {
+        "email": "SeuEmail@seudominio.com",
+        "senha": "suaSenha"
+      },
+      "credenciaisInvalidas": {
+        "email": "invalidemail@domain.com",
+        "senha": "123.Mudar"
+      },
+      "chaveIntegracao": "SuaChave"
+  }
+}

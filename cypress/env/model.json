@@ -1,0 +1,15 @@
+{
+  "urlLogin": "*********",
+  "urlApi": "*********",
+  "usuario": {
+      "credenciaisValidas": {
+        "email": "*******",
+        "senha": "*********"
+      },
+      "credenciaisInvalidas": {
+        "email": "invalidemail@domain.com",
+        "senha": "123.Mudar"
+      },
+      "chaveIntegracao": "**************1"
+  }
+}

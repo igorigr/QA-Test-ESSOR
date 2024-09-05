@@ -1,0 +1,29 @@
+{
+    "create": {
+        "Name": "Pessoa Nova Pela API",
+        "Neighborhood": "Pinheiros",
+        "ZipCode": 0,
+        "Register": "69.971.558/0001-10",
+        "OriginId": 0,
+        "CompanyId": null,
+        "StreetAddressNumber": "XXX",
+        "TypeId": 0,
+        "Phones": [
+            {
+                "PhoneNumber": "(XX) XXXX-XXXX",
+                "TypeId": 0,
+                "CountryId": 0
+            }
+        ],
+        "OtherProperties": [
+            {
+                "FieldKey": "{fieldKey}",
+                "StringValue": "texto exemplo"
+            },
+            {
+                "FieldKey": "{fieldKey}",
+                "IntegerValue": 2
+            }
+        ]
+    }
+}

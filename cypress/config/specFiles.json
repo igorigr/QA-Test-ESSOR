@@ -1,0 +1,12 @@
+{
+  "exploratory":[
+    "cypress/e2e/gui/exploratoryTestScenario.cy.js"
+  ],
+  "reegressao": [
+    "cypress/e2e/api/CRUD_Clientes.cy.js",
+    "cypress/e2e/api/CRUD_Negocios.cy.js",
+    "cypress/e2e/gui/01_Login_Sistema.cy.js",
+    "cypress/e2e/gui/CRUD_Clientes.cy.js",
+    "cypress/e2e/gui/CRUD_Negocios.cy.js"
+  ]
+}
